@@ -1,0 +1,2 @@
+# Diwash
+about my school
