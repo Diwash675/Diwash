@@ -1,2 +1,2 @@
-# Diwash
-about my school
+school project.
+
